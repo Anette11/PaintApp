@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PaintApp</string>
+    <string name="brush_color"><font size="18"><b>BRUSH COLOR</b></font></string>
+    <string name="brush_size"><font size="18"><b>BRUSH SIZE</b></font></string>
+    <string name="brush_style"><font size="18"><b>BRUSH STYLE</b></font></string>
+    <string name="download"><font size="18"><b>DOWNLOAD</b></font></string>
+    <string name="save"><font size="18"><b>SAVE</b></font></string>
+    <string name="clear"><font size="18"><b>CLEAR</b></font></string>
+    <string name="alpha">Alpha</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="menu">Menu</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear_canvas">Clear canvas?</string>
+    <string name="save_image">Save image?</string>
+    <string name="saved">SAVED</string>
+    <string name="not_saved">NOT SAVED</string>
+    <string-array name="select_brush_style">
+        <item>NORMAL</item>
+        <item>EMBOSS</item>
+        <item>BLUR</item>
+    </string-array>
+</resources>
